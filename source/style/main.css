@@ -1,7 +1,6 @@
 .game_window {
-    width: 1280;
-    height: 720;
+    width: 2560;
+    height: 1440;
 
     background-color: white;
-    background-position: auto;
 }
