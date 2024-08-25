@@ -1,0 +1,7 @@
+.game_window {
+    width: 640;
+    height: 480;
+
+    background-color: white;
+    background-position: center;
+}
