@@ -1,12 +1,12 @@
 .game_window .hud_window {
-  width: 2560;
-  height: 1440;
+  width: 1000;
+  height: 1000;
 
   background-color: white;
 }
 
 .hud_window {
-  height: 2160;
+  height: 1400;
 
   background-color: gray;
 }
