@@ -8,6 +8,7 @@
 .hud_window {
   background-position-y: 1000;
   height: 400;
+  z-index: -1;
 
   background-color: gray;
 }
